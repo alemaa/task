@@ -1,0 +1,10 @@
+footer>p {
+    font-size:larger;
+    font-weight: bold;
+}
+header>span {
+    font-size: larger;
+}
+span {
+    font-size: small;
+}
